@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: MSc in Electrical Engineering and Information Technology
+  - course: MSc in Information Technology and Electrical Engineering
     institution: ETH Zurich
     year: 2021
   - course: BSc in Electronics Engineering
@@ -61,7 +61,7 @@ email: ""
 highlight_name: false
 ---
 
-Hi! I have recently acquired a M.Sc in Electrical Engineering and Information Technology at ETH Zürich, where I focused on Hardware Design, Computer Vision and Machine Learning. While completing this program, I spent 4 months as a Teaching Assistant for Prof. Luca Benini to help students with FPGA programming. Prior to starting my Master at ETH Zurich, I graduated from the Electronic Engineering Bachelor program at Politecnico di Milano. 
+Hi! I have recently acquired a M.Sc in Electrical Engineering and Information Technology at ETH Zürich, where I focused on Hardware Design, Computer Vision and Machine Learning. While completing this program, I spent 4 months as a Teaching Assistant for Prof. Luca Benini to supervise students with FPGA programming. Prior to starting my Master at ETH Zurich, I graduated from the Electronics Engineering Bachelor program at Politecnico di Milano. 
 
 Currently, my research interests are real-time 3D Computer Vision and Machine Learning.
 
