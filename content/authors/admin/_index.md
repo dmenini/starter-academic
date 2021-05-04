@@ -48,7 +48,7 @@ social:
   link: https://www.linkedin.com/in/davide-menini-919300185/
 
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
+# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
@@ -61,8 +61,8 @@ email: ""
 highlight_name: false
 ---
 
-Hi! I have recently acquired a M.Sc in Electrical Engineering and Information Technology at ETH Zürich, where I focused on Hardware Design, Computer Vision and Machine Learning. While completing this program, I spent 4 months as a Teaching Assistant for Prof. Luca Benini to supervise students with FPGA programming. Prior to starting my Master at ETH Zurich, I graduated from the Electronics Engineering Bachelor program at Politecnico di Milano. 
+Hi! I have recently acquired a M.Sc in Electrical Engineering and Information Technology at ETH Zurich, where I focused on Hardware Design, Computer Vision and Machine Learning. While completing this program, I spent 4 months as a Teaching Assistant for Prof. Luca Benini to supervise students with FPGA programming. Prior to starting my Master at ETH Zurich, I graduated from the Electronics Engineering Bachelor program at Politecnico di Milano. 
 
 Currently, my research interests are real-time 3D Computer Vision and Machine Learning.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
