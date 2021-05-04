@@ -65,4 +65,4 @@ Hi! I have recently acquired a M.Sc in Electrical Engineering and Information Te
 
 Currently, my research interests are real-time 3D Computer Vision and Machine Learning.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
