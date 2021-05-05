@@ -22,7 +22,7 @@ links:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "uploads/thesis/video.mp4"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

@@ -16,9 +16,9 @@ image:
   focal_point: Smart
 
 links:
-url_code: ""
-url_pdf: ""
-url_slides: ""
+url_code: "https://github.com/dmenini/nst-for-us-imaging"
+url_pdf: "uploads/nst/report.pdf"
+url_slides: "uploads/nst/slides.pptx"
 url_video: ""
 
 # Slides (optional).

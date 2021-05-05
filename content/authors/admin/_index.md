@@ -61,8 +61,8 @@ email: ""
 highlight_name: false
 ---
 
-Hi! I have recently acquired a M.Sc in Electrical Engineering and Information Technology at ETH Zurich, where I focused on Hardware Design, Computer Vision and Machine Learning. While completing this program, I spent 4 months as a Teaching Assistant for Prof. Luca Benini to supervise students with FPGA programming. Prior to starting my Master at ETH Zurich, I graduated from the Electronics Engineering Bachelor program at Politecnico di Milano. 
+Hi! I have recently acquired a M.Sc in Electrical Engineering and Information Technology at ETH Zurich, where I focused on Hardware Design, Computer Vision and Machine Learning. While completing this program, I worked as a Teaching Assistant for Prof. Luca Benini to supervise students with FPGA programming. Prior to starting my Master at ETH Zurich, I graduated from the Electronics Engineering Bachelor program at Politecnico di Milano. 
 
 Currently, my research interests are real-time 3D Computer Vision and Machine Learning.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

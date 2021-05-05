@@ -31,9 +31,9 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: ""
+url_code: "https://github.com/dmenini/face-detection-on-mcu"
 url_pdf: ""
-url_slides: ""
+url_slides: "uploads/face/slides.pptx"
 url_video: ""
 
 # Slides (optional).

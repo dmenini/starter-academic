@@ -19,7 +19,7 @@ image:
 links:
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "uploads/nvdla/slides.pptx"
 url_video: ""
 
 # Slides (optional).

@@ -31,8 +31,10 @@ content:
     tag: Computer Vision
   - name: Machine Learning
     tag: Machine Learning
+  - name: Hardware Acceleration
+    tag: Hardware Acceleration
   - name: Other
-    tag: Demo
+    tag: Statistics
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
