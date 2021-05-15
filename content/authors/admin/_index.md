@@ -26,7 +26,7 @@ interests:
 education:
   courses:
   - course: MSc in Information Technology and Electrical Engineering
-    institution: ETH Zurich
+    institution: ETH Z ̈urich
     year: 2021
   - course: BSc in Electronics Engineering
     institution: Politecnico di MIlano
