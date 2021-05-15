@@ -23,10 +23,10 @@ twitter: ''
 email: davide.menini96@gmail.com
 phone: +41 789779990
 address:
-  street: Roswiesenstrasse 173
-  city: Zurich
+  #street: Roswiesenstrasse 173
+  city: Zurich, Switzerland
   #region: CA
-  postcode: 8051
+  #postcode: 8051
   country: Switzerland
   country_code: CH
 #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
