@@ -29,7 +29,7 @@ experience:
     location: Switzerland
     date_start: '2019-10-01'
     date_end: '2020-01-31'
-    description: Worked in a team to help students during the laboratory sessions of 'VLSI I from Architectures to VLSI Circuits and FPGA'
+    description: "Worked in a team to supervise students during the laboratory sessions of {{< a 'newtab'>}}'VLSI I: from Architectures to VLSI Circuits and FPGA'{{< /a >}}."
 
 design:
   columns: '2'
