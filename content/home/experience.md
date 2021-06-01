@@ -24,12 +24,12 @@ date_format: Jan 2006
 experience:       
   - title: Teaching Assistant for Prof. Luca Benini
     company: ETH Zurich - IIS 
-    company_url: ''
+    company_url: 'https://iis.ee.ethz.ch/'
     company_logo: ''
-    location: Switzerland
+    location: Zurich, Switzerland
     date_start: '2019-10-01'
     date_end: '2020-01-31'
-    description: "Worked in a team to supervise students during the laboratory sessions of {{< a 'newtab'>}}'VLSI I: from Architectures to VLSI Circuits and FPGA'{{< /a >}}."
+    description: "Worked in a team to supervise students during the laboratory sessions of <a href='https://iis-students.ee.ethz.ch/lectures/vlsi-i/'>VLSI I: from Architectures to VLSI Circuits and FPGA</a>."
 
 design:
   columns: '2'
