@@ -33,7 +33,7 @@ image:
 
 url_code: "https://github.com/dmenini/gpu-inverted-index-search"
 url_pdf: ""
-url_slides: "uploads/inverted/slides.pptx"
+url_slides: "uploads/inverted-index-search/slides.pptx"
 url_video: ""
 
 # Slides (optional).

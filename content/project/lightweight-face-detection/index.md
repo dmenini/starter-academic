@@ -33,7 +33,7 @@ image:
 
 url_code: "https://github.com/dmenini/face-detection-on-mcu"
 url_pdf: ""
-url_slides: "uploads/face/slides.pptx"
+url_slides: "uploads/lightweight-face-detection/slides.pptx"
 url_video: ""
 
 # Slides (optional).

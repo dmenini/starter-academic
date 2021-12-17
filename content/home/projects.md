@@ -29,8 +29,8 @@ content:
     tag: '*'
   - name: Computer Vision
     tag: Computer Vision
-  - name: Machine Learning
-    tag: Machine Learning
+  - name: NLP
+    tag: NLP
   - name: Hardware Acceleration
     tag: Hardware Acceleration
   - name: Other

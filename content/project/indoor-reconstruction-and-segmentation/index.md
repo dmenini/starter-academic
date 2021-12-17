@@ -22,7 +22,7 @@ links:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: "uploads/thesis/video.mp4"
+url_video: "uploads/indoor-reconstruction-and-segmentation/video.mp4"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

@@ -6,21 +6,22 @@ title: Davide Menini
 superuser: true
 
 # Role/position/tagline
-role: MSc graduate
+role: IT Trainee
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: ETH Zurich
-  url: https://ethz.ch/de.html
+- name: Swisscom AG
+  url: https://www.swisscom.ch/en/about.html
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My interests include 3D computer vision, machine learning and robotics.
 
 # Interests to show in About widget
 interests:
-- 3D Computer Vision
-- Real-time Systems
-- Machine Learning
+- Artificial Intelligence
+- Natural Language Processing
+- Computer Vision
+- Cloud Computing
 
 # Education to show in About widget
 education:
@@ -29,7 +30,7 @@ education:
     institution: ETH Zurich
     year: 2021
   - course: BSc in Electronics Engineering
-    institution: Politecnico di MIlano
+    institution: Politecnico di Milano
     year: 2018
 
 # Social/Academic Networking
@@ -60,9 +61,7 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
+Hi! I am a Data Scientist and Python developer. Being hunger for knowledge, I constantly try to improve myself by learning new technologies and by keeping pace with recent progresses in IT topics, namely Artificial Intelligence and Cloud Computing. My interests and passion for the matter are well represented by the collection of university and personal projects that you can find on this website.
 
-Hi! I have recently acquired a M.Sc in Information Technology and Electrical Engineering at ETH Zurich, where I focused on Hardware Design, Computer Vision and Machine Learning. While completing this program, I worked as a Teaching Assistant for Prof. Luca Benini to supervise students with FPGA programming. Prior to starting my Master at ETH Zurich, I graduated from the Electronics Engineering Bachelor program at Politecnico di Milano. 
-
-Currently, my research interests are real-time 3D Computer Vision and Machine Learning.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
